@@ -1,6 +1,2 @@
 this is fourth file in git repoositoyr
-<<<<<<< HEAD
-edittec by shadik, to learn git hub fluently
-=======
 edited by shadik basha in the morning
->>>>>>> new_branch
